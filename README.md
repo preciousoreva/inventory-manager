@@ -1,2 +1,2 @@
 # inventory-manager
-This is an application the would be used to keep record of transitions in a store 
+This is an application the would be used to keep record of daily business transactions in a store 
